@@ -5,7 +5,7 @@ An app to learn about triangles, contains quizzes & calculators.
 
 
 
-#### [live project]()
+#### [live project](https://learn-with-triangles.netlify.app/)
 
 # features:
  - Click on section you want to open.
